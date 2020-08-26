@@ -1,6 +1,6 @@
 <h1 align='center'>Software Developer and Science Enthusiast</h1>
 <p align="center">
-  <img src ="https://user-images.githubusercontent.com/40803253/91255594-c51ee380-e72a-11ea-8a92-0bff0d2a54e0.jpg" width='300'/> 
+  <img src ="https://user-images.githubusercontent.com/40803253/91326896-7dc83f80-e78a-11ea-97f7-4f1615b9df11.jpg" width='500'/> 
 </p>
 
 
